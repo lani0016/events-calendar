@@ -1,3 +1,41 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
+}
+
+.grey {
+  color: #333;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  border: #666 solid 1px;
+}
+
+.rd {
+  color: #b92828;
+  background-color: #f2bcbc;
+  border-radius: 8px;
+  border: #991919 solid 1px;
+}
+
+.green {
+  color: #6b7e54;
+  background-color: #d1e0bf;
+  border-radius: 8px;
+  border: #51603f solid 1px;
+}
+
+.blue {
+  color: #1d38da;
+  background-color: #d2d6f0;
+  border-radius: 8px;
+  border: #38448e solid 1px;
+}
+
+table,
+th,
+td {
+  border: #ccc solid 1px;
+}
+
+td {
+  height: 6em;
 }
